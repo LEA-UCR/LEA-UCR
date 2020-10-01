@@ -2,8 +2,8 @@
 main:
   - title: "Equipo"
     url: /equipo/
-  # - title: "About"
-  #  url: /equipo/
+  - title: "Proyectos"
+    url: /pro/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
