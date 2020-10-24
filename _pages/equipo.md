@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 
-* Luis Alberto Barboza, PhD. 
+* Luis Alberto Barboza, PhD. [Página Personal](https://luisbarboza.wordpress.com/)
+
+Luis A. Barboza es profesor de la Escuela de Matemática e investigador del Centro de Investigación en Matemática Pura y Aplicada (CIMPA) de la Universidad de Costa Rica. Sus principales intereses de investigación son la estimación bayesiana de procesos espacio-temporales, modelos de espacio-estado aplicados en problemas de reconstrucción paleoclimática, estimación de modelos dinámicos en problemas epidemiológicos y modelación de fenómenos ambientales. 
 
 * Shu Wei Chou Chen, PhD. 
 
