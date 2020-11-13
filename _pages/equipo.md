@@ -10,7 +10,7 @@ author_profile: true
 
 Luis A. Barboza es profesor de la Escuela de Matemática e investigador del Centro de Investigación en Matemática Pura y Aplicada (CIMPA) de la Universidad de Costa Rica. Sus principales intereses de investigación son la estimación bayesiana de procesos espacio-temporales, modelos de espacio-estado aplicados en problemas de reconstrucción paleoclimática, estimación de modelos dinámicos en problemas epidemiológicos y modelación de fenómenos ambientales. 
 
-* Shu Wei Chou Chen, PhD. 
+* Shu Wei Chou Chen, PhD. [Página Personal](https://https://shuwei325.github.io/)
 
 Shu-Wei Chou es profesor en la Escuela de Estadística e investigador asociado en el Centro de Investigación en Matemática Pura y Aplicada (CIMPA) en la Universidad de Costa Rica. Sus intereses de investigación son en series temporales, modelos espacio-temporales, métodos estadísticos y sus aplicaciones. Tiene un doctorado en Estadística en la Universidad de São Paulo.
 
