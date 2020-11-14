@@ -18,3 +18,21 @@ Shu-Wei Chou es profesor en la Escuela de Estadística e investigador en el Cent
 
 Marcela Alfaro Córdoba es profesora de estadística en la Universidad de Costa Rica, investigadora en las áreas de modelos espacio-temporales, análisis de datos funcionales y de aplicaciones de estadística para ciencias atmosféricas. Ella tiene un interés especial en ser mentora de jóvenes (y futuras) investigadoras, por lo que inició junto con un grupo de estudiantes el capítulo de R-ladies San José. Su formación profesional es en estadística, tiene un Doctorado de la Universidad Estatal de Carolina del Norte.
 
+## Colaboradores Externos
+
+### Investigadores Nacionales
+
+* Dr. Hugo Hidalgo León (Centro de Investigaciones Geofísicas, UCR)
+* Dr. Eric Alfaro Martínez (Centro de Investigaciones Geofísicas, UCR)
+
+
+### Investigadores Internacionales
+
+* Bo Li, PhD. [Department of Statistics, University of Illinois at Urbana-Champaign](https://stat.illinois.edu/directory/profile/libo)
+* Frederi Viens, PhD. [Department of Statistics and Probability, Michigan State University](https://stt.natsci.msu.edu/directory/faculty/frederi-viens/)
+* Julien Emile-Geay, PhD. [Department of Earth Science, University of Southern California](https://dornsife.usc.edu/cf/faculty-and-staff/faculty.cfm?pid=1023062)
+
+## Estudiantes de posgrado
+
+* Mario Gómez. 
+* David Jiménez.
